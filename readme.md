@@ -43,6 +43,7 @@
  - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy &amp; paste, and the like.
  - [react-pivot](https://github.com/davidguttman/react-pivot) - React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.
  - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
+ - [sematable](https://github.com/sematext/sematable) - Table with sorting, filtering, row selection, pagination, and  ability to persist the table state in application state with Redux, so filters, sort info, selected rows, and pagination info survives route navigations.
 
 
 ###### Infinite Scroll
